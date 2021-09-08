@@ -30,7 +30,7 @@ let obj = [{
 }, {
     name: 'Pocco',
     age: 73,
-    live: 'kolkata',
+    live: 'Muchi para',
     language: 'Ami nija akta language',
     frame:'Ami photo frame banata pari',
     photo: 'https://randomuser.me/api/portraits/women/53.jpg'
